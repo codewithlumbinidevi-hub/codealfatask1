@@ -84,9 +84,9 @@ B.Tech CSE Student
 
 AI Enthusiast | UPSC Aspirant
 
-LinkedIn: (Add your LinkedIn Profile)
+LinkedIn: (https://www.linkedin.com/in/gangavamsam-lumbinidevi-452449393?utm_source=share_via&utm_content=profile&utm_medium=member_ios)
 
-GitHub: (Add your GitHub Profile)
+GitHub: (https://github.com/codewithlumbinidevi-hub)
 
 ## 📜 License
 
